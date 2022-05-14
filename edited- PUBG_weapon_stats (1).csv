@@ -1,14 +1,14 @@
 Catg,Name,Img,Ammo,Bullet Speed,Mag,ExtMag,FireRate,Distance,Damage,Reload,Range,DPS,Vest0,Vest1,Vest2,Vest3,Limb,Hand,Helmet0,Helmet1,Helmet2,Helmet3
-coffe,墨江哈尼族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_awm-9adbb87b.png,0.3,945,5,7,1.85,1000,105,4.6,1360,700,158,110.3,94.5,70.9,50,29.9,262.5,183.75,157.5,118.125
-coffe,保山,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m24-9b07e66a.png,7.62,790,5,7,1.8,800,79,4.2,1600,3300,119,83,71.1,53.3,38,22.5,197.5,138.25,118.5,88.88
-coffe,德宏傣族景颇族自治州,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_kar98k-f27d2f57.png,7.62,760,5,5,1.9,600,75,4,1050,2800,113,78.8,67.5,50.6,36,21.4,187.5,131.25,112.5,84.38
-coffe,江城哈尼族彝族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_winchester1894-a1465f83.png,0.45,760,8,8,0.6,500,66,4,1119,800,99,69.3,59.4,44.6,31,18.8,165,115.5,99,74.25
-coffe,宁洱哈尼族彝族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mi_mk14ebr-96307b83.png,7.62,853,10,20,0.09,800,61,3.68,1320,1100,64,44.8,38.4,28.8,29,17.4,143.35,100.35,86,64.51
-coffe,孟连县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_fnfal-f599f866.png,7.62,840,10,20,0.1,800,58,3.68,1300,600,61,42.6,36.5,27.4,28,16.5,136.3,95.41,81.78,61.34
-coffe,澜沧拉祜族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_sks-558bd4e3.png,7.62,800,10,20,0.1,800,53,2.9,1054,700,56,39,33.4,25,25,15.1,124.55,87.185,74.73,56.05
-coffe,临沧市,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_qbu88-6448cf30.png,5.56,945,10,20,0.1,800,48,3,1940,1800,50,35.3,30.2,22.7,23,13.7,112.8,78.96,67.68,50.76
-coffe,景洪市,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mini14-6a06fb02.png,5.56,990,20,30,0.1,600,46,3.6,1500,1800,48,33.8,29,21.7,22,13.1,108.1,75.67,64.86,48.65
-coffe,思茅区,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_vss_01-16ef9c6c.png,5.56,330,10,20,0.09,300,41,2.9,1300,2600,43,30.1,25.8,19.4,19,11.7,96.35,67.45,57.81,43.36
+coffe,保山,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m24-9b07e66a.png,7.62,790,5,7,1.8,800,79,4.2,1600,574.4562647,119,83,71.1,53.3,38,22.5,197.5,138.25,118.5,88.88
+coffe,德宏傣族景颇族自治州,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_kar98k-f27d2f57.png,7.62,760,5,5,1.9,600,75,4,1050,529.1502622,113,78.8,67.5,50.6,36,21.4,187.5,131.25,112.5,84.38
+coffe,临沧市,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_qbu88-6448cf30.png,5.56,945,10,20,0.1,800,48,3,1940,424.2640687,50,35.3,30.2,22.7,23,13.7,112.8,78.96,67.68,50.76
+coffe,墨江哈尼族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_awm-9adbb87b.png,0.3,945,5,7,1.85,1000,105,4.6,1360,264.5751311,158,110.3,94.5,70.9,50,29.9,262.5,183.75,157.5,118.125
+coffe,宁洱哈尼族彝族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mi_mk14ebr-96307b83.png,7.62,853,10,20,0.09,800,61,3.68,1320,331.662479,64,44.8,38.4,28.8,29,17.4,143.35,100.35,86,64.51
+coffe,思茅区,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_vss_01-16ef9c6c.png,5.56,330,10,20,0.09,300,41,2.9,1300,509.9019514,43,30.1,25.8,19.4,19,11.7,96.35,67.45,57.81,43.36
+coffe,澜沧拉祜族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_sks-558bd4e3.png,7.62,800,10,20,0.1,800,53,2.9,1054,264.5751311,56,39,33.4,25,25,15.1,124.55,87.185,74.73,56.05
+coffe,江城哈尼族彝族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_winchester1894-a1465f83.png,0.45,760,8,8,0.6,500,66,4,1119,282.8427125,99,69.3,59.4,44.6,31,18.8,165,115.5,99,74.25
+coffe,孟连县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_fnfal-f599f866.png,7.62,840,10,20,0.1,800,58,3.68,1300,244.9489743,61,42.6,36.5,27.4,28,16.5,136.3,95.41,81.78,61.34
+coffe,景洪市,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mini14-6a06fb02.png,5.56,990,20,30,0.1,600,46,3.6,1500,424.2640687,48,33.8,29,21.7,22,13.1,108.1,75.67,64.86,48.65
 gun,Groza,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_groza-d245c1fe.png,5.56,715,30,40,0.08,400,49,3,380,613,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
 gun,AKM,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_ak47-cc3a9fbd.png,7.62,715,30,40,0.1,400,49,3.22,380,490,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
 gun,Mk47Mutant,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mk47mutant-1ddb6889.png,7.62,715,20,30,0.1,380,49,3.37,380,490,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
