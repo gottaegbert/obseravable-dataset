@@ -9,14 +9,13 @@ coffe,澜沧拉祜族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/imag
 coffe,江城哈尼族彝族自治县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_winchester1894-a1465f83.png,0.45,760,8,8,0.6,500,66,4,1119,282.8427125,99,69.3,59.4,44.6,31,18.8,165,115.5,99,74.25
 coffe,孟连县,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_fnfal-f599f866.png,7.62,840,10,20,0.1,800,58,3.68,1300,244.9489743,61,42.6,36.5,27.4,28,16.5,136.3,95.41,81.78,61.34
 coffe,景洪市,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mini14-6a06fb02.png,5.56,990,20,30,0.1,600,46,3.6,1500,424.2640687,48,33.8,29,21.7,22,13.1,108.1,75.67,64.86,48.65
-gun,Groza,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_groza-d245c1fe.png,5.56,715,30,40,0.08,400,49,3,380,613,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
-gun,AKM,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_ak47-cc3a9fbd.png,7.62,715,30,40,0.1,400,49,3.22,380,490,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
-gun,Mk47Mutant,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mk47mutant-1ddb6889.png,7.62,715,20,30,0.1,380,49,3.37,380,490,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
-gun,BerylM762,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m762-3679bea9.png,7.62,715,30,40,0.086,600,47,2.9,380,547,47,32.9,28.2,21.2,21,12.7,110.5,77,66,49.7
-gun,AUG A3,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_auga3-9832c8cc.png,5.56,940,30,40,0.086,400,43,3.67,350,502,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,M16A4,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m16a4-5450fc58.png,5.56,900,30,40,0.1,600,43,2.86,400,430,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,M416,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_hk416-86afd333.png,5.56,880,30,40,0.086,600,43,2.73,360,502,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,Scar-L,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_scar-l-9e7aa996.png,5.56,870,30,40,0.096,600,43,2.86,350,448,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,QBZ95,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_qbz95-7e61dce8.png,5.56,870,30,40,0.092,400,43,3.66,350,466,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,G36C,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_g36c-c0ef5e6c.png,5.56,870,30,40,0.086,500,43,3.8,350,502,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
-gun,Tommy Gun,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_thompson-56227619.png,0.45,280,30,50,0.086,200,40,3.45,250,467,40,28,24,18,25,15,72,50.4,43.2,32.4
+gun,Groza,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_groza-d245c1fe.png,5.56,715,30,40,0.08,400,49,3,380,574.4562647,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
+gun,AKM,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_ak47-cc3a9fbd.png,7.62,715,30,40,0.1,400,49,3.22,380,529.1502622,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
+gun,Mk47Mutant,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_mk47mutant-1ddb6889.png,7.62,715,20,30,0.1,380,49,3.37,380,424.2640687,49,34.3,29.4,22.1,22,13.2,115.2,81,69,51.8
+gun,BerylM762,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m762-3679bea9.png,7.62,715,30,40,0.086,600,47,2.9,380,264.5751311,47,32.9,28.2,21.2,21,12.7,110.5,77,66,49.7
+gun,AUG A3,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_auga3-9832c8cc.png,5.56,940,30,40,0.086,400,43,3.67,350,331.662479,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
+gun,M16A4,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_m16a4-5450fc58.png,5.56,900,30,40,0.1,600,43,2.86,400,509.9019514,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
+gun,M416,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_hk416-86afd333.png,5.56,880,30,40,0.086,600,43,2.73,360,264.5751311,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
+gun,Scar-L,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_scar-l-9e7aa996.png,5.56,870,30,40,0.096,600,43,2.86,350,282.8427125,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
+gun,QBZ95,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_qbz95-7e61dce8.png,5.56,870,30,40,0.092,400,43,3.66,350,244.9489743,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
+gun,G36C,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_g36c-c0ef5e6c.png,5.56,870,30,40,0.086,500,43,3.8,350,424.2640687,43,30.1,25.8,19.4,19,11.6,101.1,71,61,45.5
